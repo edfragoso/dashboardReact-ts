@@ -1,0 +1,23 @@
+[
+  {
+    "id": "001",
+    "produto": "Notebook",
+    "marca": "Dell",
+    "valor": 3500.0,
+    "comissão": 0.05
+  },
+  {
+    "id": "002",
+    "produto": "Smartphone",
+    "marca": "Samsung",
+    "valor": 1800.0,
+    "comissão": 0.03
+  },
+  {
+    "id": "003",
+    "produto": "Televisão",
+    "marca": "LG",
+    "valor": 2500.0,
+    "comissão": 0.06
+  }
+]

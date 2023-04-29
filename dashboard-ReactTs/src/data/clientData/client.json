@@ -1,0 +1,24 @@
+[
+{
+  "id": "001",
+  "nome": "João da Silva",
+  "telefone": "(11) 9999-9999",
+  "cpf": "123.456.789-00",
+  "email": "joao.silva@email.com"
+},
+{
+    "id": "002",
+    "nome": "Maria da Silva",
+    "telefone": "(11) 8888-8888",
+    "cpf": "123.456.789-01",
+    "email": "maria.silva@email.com"
+  },
+  {
+    "id": "003",
+    "nome": "Josefa da Silva",
+    "telefone": "(11) 7777-8888",
+    "cpf": "123.456.789-02",
+    "email": "josefa.silva@email.com"
+  }
+
+]
